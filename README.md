@@ -11,7 +11,7 @@ We are using IBM Watson as an artivism tool to aggregate social media posts abou
 
 # Technologies
 IBM Watson
-IBM Watson API used in New York Fashion Gala to display visual representations bbased on social media data
+IBM Watson API used in New York Fashion Gala to display visual representations based on social media data
 
 
 ### Support or Contact
