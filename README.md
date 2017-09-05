@@ -18,7 +18,7 @@ We have decided to use IBM Watson to aggregate social media posts related to cam
 
 # Inspiration - Art + Activism = Artivism
 During the Met Gala last year, IBM Watson collaborated to create a unqiue dress. 
-The lights lit up with a color that corresponded to Tweets containing #METGala. All Tweets were analyzed using IBM Watson Sentiemnt Analysis, and the aggregate sentiment was mapped to a color. 
+The lights lit up with a color that corresponded to Tweets containing #MetGala. All Tweets were analyzed using IBM Watson Sentiemnt Analysis API's, and the aggregate sentiment was mapped to a color. 
 
 ![Dress](https://media.wired.com/photos/592704e7f3e2356fd800b338/master/w_582,c_limit/KK_FINAL-Red-Carpet-1.jpg)
 "The LED lights attached to the dress’ embroidered flowers are connected to Watson’s Tone Analyzer API, which is able to interpret the emotional content of tweets tagged #MetGala and #CognitiveDress. As the tone of the tweets change, Watson is able to pull from the color palettes it generated and change the hue of the dress in real time. If tweets have a high “joy” value, for example, the dress would light up with a bright rose color; while tweets with a more “excited” tone will turn the flowers a shade of aqua. Even the fabric—a lightweight tulle—was chosen through a cognitive process." - https://www.wired.com/2016/05/ibms-watson-helped-design-karolina-kurkovas-light-dress-met-gala/
