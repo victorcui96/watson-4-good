@@ -10,14 +10,17 @@ We are using IBM Watson as an artivism tool to aggregate social media posts abou
 - Chief Architect: Victor Cui
 
 # Technologies
-IBM Watson
-Twitter API
-Mailchimp
-Venmo API
+- IBM Watson: IBM’s Cognitive Color Tool, Sentiment Analysis
+- Twitter API
+- Mailchimp
+- Venmo API
 
 # Inspiration - Art + Activism = Artivism
-During the Met Gala last year, there was a large designer dress decorated by lights. 
+During the Met Gala last year, IBM Watson collaborated to create a unqiue dress. 
 The lights lit up with a color that corresponded to Tweets containing #METGala. All Tweets were analyzed using IBM Watson Sentiemnt Analysis, and the aggregate sentiment was mapped to a color. 
+
+![Dress](https://media.wired.com/photos/592704e7f3e2356fd800b338/master/w_582,c_limit/KK_FINAL-Red-Carpet-1.jpg)
+"The LED lights attached to the dress’ embroidered flowers are connected to Watson’s Tone Analyzer API, which is able to interpret the emotional content of tweets tagged #MetGala and #CognitiveDress. As the tone of the tweets change, Watson is able to pull from the color palettes it generated and change the hue of the dress in real time. If tweets have a high “joy” value, for example, the dress would light up with a bright rose color; while tweets with a more “excited” tone will turn the flowers a shade of aqua. Even the fabric—a lightweight tulle—was chosen through a cognitive process."
 
 We wish to apply the idea of artistic visual representations based on social media data to campus issues, specifically Silent Sam.
 
