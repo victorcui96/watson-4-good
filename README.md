@@ -1,5 +1,6 @@
 ## Project Description
 Our project entails using IBM Watson for good.
+We are using IBM Watson as an artivism tool to aggregate social media posts about campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. 
 
 ### Team Roles
 - Client Manager: Michael Gu
