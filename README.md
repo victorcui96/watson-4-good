@@ -1,5 +1,5 @@
 ## Project Description
-We were given the project called "IBM Watson For Good"
+We were given the project called "IBM Watson For Good".
 As a rather open ended challenge by [Phaedra Boinodiris](https://www.linkedin.com/in/phaedra) from IBM, our team is investigating how Watson can be used in creative ways to drive social change.
 
 We have decided to use IBM Watson to aggregate social media posts related to campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. This aggregation can then be used to enable crowdfunding or automate messages to legislators related to the issue at hand.
