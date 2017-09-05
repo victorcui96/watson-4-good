@@ -4,7 +4,7 @@ As a rather open ended challenge by [Phaedra Boinodiris](https://www.linkedin.co
 
 We have decided to use IBM Watson to aggregate social media posts related to campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. This aggregation can then be used to enable crowdfunding or automate messages to legislators related to the issue at hand.
 
-### Team Roles
+# Team Roles
 - Client Manager: Michael Gu
 - Project Manager: Amogh Sharma
 - Editor: Greer Glenn
@@ -16,7 +16,8 @@ We have decided to use IBM Watson to aggregate social media posts related to cam
 - Mailchimp
 - Venmo API
 
-# Inspiration - Art + Activism = Artivism
+# Inspiration  
+## Art + Activism = Artivism
 During the Met Gala last year, IBM Watson collaborated to create a unqiue dress. 
 The lights lit up with a color that corresponded to Tweets containing #MetGala. All Tweets were analyzed using IBM Watson Sentiemnt Analysis API's, and the aggregate sentiment was mapped to a color. 
 
