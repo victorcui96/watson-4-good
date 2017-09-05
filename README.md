@@ -1,7 +1,8 @@
 ## Project Description
-Our project entails using IBM Watson for good.
+We were given the project called "IBM Watson For Good"
+It is a rather open ended challenge supported by Phaedra Boinodiris from IBM, investigating how Watson can be used in creative ways to drive social change.
 
-We are using IBM Watson to aggregate social media posts related to campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. This aggregation can then be used to enable crowdfunding or automate messages to legislators related to the issue at hand.
+We have decided to use IBM Watson to aggregate social media posts related to campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. This aggregation can then be used to enable crowdfunding or automate messages to legislators related to the issue at hand.
 
 ### Team Roles
 - Client Manager: Michael Gu
