@@ -25,7 +25,7 @@ The lights lit up with a color that corresponded to Tweets containing #MetGala. 
 "The LED lights attached to the dress’ embroidered flowers are connected to Watson’s Tone Analyzer API, which is able to interpret the emotional content of tweets tagged #MetGala and #CognitiveDress. As the tone of the tweets change, Watson is able to pull from the color palettes it generated and change the hue of the dress in real time. If tweets have a high “joy” value, for example, the dress would light up with a bright rose color; while tweets with a more “excited” tone will turn the flowers a shade of aqua. Even the fabric—a lightweight tulle—was chosen through a cognitive process." - https://www.wired.com/2016/05/ibms-watson-helped-design-karolina-kurkovas-light-dress-met-gala/
 
 We wish to apply the idea of **artistic visual representations based on ML aggregation of social media data to campus issues**, specifically Silent Sam.
-[Silent Sam](http://www.newsobserver.com/news/local/crime/mj3rol/picture167359702/alternates/FREE_640/RAL_%20081317-SILENT-SAM-TEL-004)
+![Silent Sam](http://www.newsobserver.com/news/local/crime/mj3rol/picture167359702/alternates/FREE_640/RAL_%20081317-SILENT-SAM-TEL-004)
 
 # Potential Ideas
 - aggregate tweets related to #SilentSam -> run tweets through Watson Sentiment analysis -> represent the sentiment using lights or physical visual indicator surrounding statue
