@@ -5,13 +5,14 @@ As a rather open ended challenge by [Phaedra Boinodiris](https://www.linkedin.co
 We have decided to use IBM Watson to aggregate social media posts related to campus topics, and have the general “mood” be displayed as an artistic representation on significant parts of campus. This aggregation can then be used to enable crowdfunding or automate messages to legislators related to the issue at hand.
 
 # Team Roles
-- Client Manager: Michael Gu
+- Client Manager: Michael Gu 
 - Project Manager: Amogh Sharma
-- Editor: Greer Glenn
+- Editor: Greer Glenn 
 - Chief Architect: Victor Cui
 
 # Technologies
-- IBM Watson: IBM’s Cognitive Color Tool, Tone Analyzer
+- IBM Watson: IBM’s Cognitive Color Tool, Tone Analyzer, Natural Language Understanding
+- IBM Blue Mix
 - Twitter API
 - Mailchimp
 - Venmo API
