@@ -1,5 +1,5 @@
 applications:
-- name: natural-language-understanding-demo
+- name: watson-4-good-demo
   path: .
   buildpack: sdk-for-nodejs
   command: npm start
