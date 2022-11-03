@@ -50,7 +50,7 @@
     "dotenv": "^4.0.0",
     "es6-promise": "^4.1.1",
     "express": "~4.15.4",
-    "express-browserify": "^1.0.2",
+    "express-browserify": "^1.0.3",
     "express-rate-limit": "^2.9.0",
     "express-react-views": "^0.10.2",
     "express-secure-only": "^0.2.1",
